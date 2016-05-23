@@ -28,7 +28,7 @@ end
   end
 end
 
-package "homebrew/mailhog" do
+package 'mailhog' do
   action [:install, :upgrade]
 end
 
